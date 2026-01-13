@@ -1,4 +1,4 @@
-🚀 Run it with Docker
+# 🚀 Run it with Docker
 If you have Docker installed, you can get the game running in seconds:
 
 Open your terminal inside the project folder.
@@ -9,5 +9,5 @@ docker build -t dice-game .
 ### Start the container:
 docker run -d -p 8080:80 dice-game
 
-🎮 How to Play
+# 🎮 How to Play
 Once it's running, just head over to http://localhost:8080 in your browser. Refresh the page to roll again.
